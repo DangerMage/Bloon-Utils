@@ -1,2 +1,2 @@
 # Bloon-Utils
-A program to add more hotkeys for use with bloons td 6
+This program will make is so if you press something like alt + 1 it will activate the second row of abilitys
